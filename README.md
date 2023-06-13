@@ -16,6 +16,8 @@ yarn
 yarn start:dev
 ```
 
+Plus de détail disponible sur le readme originel, incluant comment lancer les tests : [Readme originel](server/README.md)
+
 ## Question
 
 **Si 5 devs rejoignent ton équipe demain et que ton application est en production, quelles sont les améliorations à apporter à l'environnement de Dev et pourquoi ?**
