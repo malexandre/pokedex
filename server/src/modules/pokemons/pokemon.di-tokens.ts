@@ -1,0 +1,1 @@
+export const POKEMON_REPOSITORY = Symbol('POKEMON_REPOSITORY');
