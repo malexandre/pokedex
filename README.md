@@ -8,7 +8,7 @@ npm install
 npm start
 ```
 
-## Comment lancer le server
+## Comment lancer le serveur
 
 ```bash
 cd server
